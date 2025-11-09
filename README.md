@@ -11,18 +11,17 @@ Please follow the submission rules:
 
 ## Day 1 — Binary Search & Two-Pointers
 
-| Name | Domain | Editorial Link |
+| Name | Domain  | Editorial Link |
 |------|---------|----------------|
-|      |         |                |
-|      |         |                |
+|kunal | WEB3    |https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1825053029         |
+|      |         | https://leetcode.com/problems/3sum/submissions/1825086551               |
 
----
 
 ## Day 2 — Two Sum Variant & Modular Arithmetic
 
 | Name | Domain | Editorial Link |
 |------|---------|----------------|
-|      |         |                |
+|kunal | WEB3    |  https://leetcode.com/problems/super-pow/submissions/1825093104              |
 |      |         |                |
 
 ---
