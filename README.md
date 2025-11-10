@@ -22,10 +22,12 @@ Please follow the submission rules:
 
 ## Day 2 — Two Sum Variant & Modular Arithmetic
 
-| Name | Domain | Editorial Link |
-|------|---------|----------------|
-|      |         |                |
-|      |         |                |
+| Name          | Domain                   | Solution Link |
+|---------------|---------------------------|----------------|
+| Nilesh Sabale | Android Dev Coordinator   | https://leetcode.com/problems/4sum/solutions/7339931/4sum-two-pointer-approach-by-nilesh_saba-49ak       |
+| Nilesh Sabale | Android Dev Coordinator   | https://leetcode.com/problems/super-pow/solutions/7339968/super-pow-modular-arithmetic-approach-by-ozcs  |
+|               |                           |                |
+
 
 ---
 
