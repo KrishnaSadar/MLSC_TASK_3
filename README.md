@@ -11,21 +11,21 @@ Please follow the submission rules:
 
 ## Day 1 — Binary Search & Two-Pointers
 
-| Name | Domain | Editorial Link |
-|------|---------|----------------|
-|      |         |                |
-|      |         |                |
+|     Name       |   Domain    |                                Editorial Link                                              |
+|----------------|-------------|--------------------------------------------------------------------------------------------|
+| Sahil Jadhav   | Multimedia  | (https://leetcode.com/discuss/post/7336731/editorial-find-first-and-last-position-o-tvd7/) |
+| Sahil Jadhav   | Multimedia  | (https://leetcode.com/discuss/post/7336757/editorial-leetcode-15-3sum-by-sahiljadha-bsam/) |
+
 
 ---
 
 ## Day 2 — Two Sum Variant & Modular Arithmetic
 
-| Name | Domain | Editorial Link |
-|------|---------|----------------|
-|      |         |                |
-|      |         |                |
+|     Name       |   Domain    |                                Editorial Link                                                             |
+|----------------|-------------|-----------------------------------------------------------------------------------------------------------|
+| Sahil Jadhav   | Multimedia  | (https://leetcode.com/problems/4sum/solutions/7339450/editorial-leetcode-18-4sum-optimized-on3-tdw7)      |
+| Sahil Jadhav   | Multimedia  | (https://leetcode.com/problems/super-pow/solutions/7339474/editorial-leetcode-372-super-pow-optimiz-s5k4) |
 
 ---
 
 Happy contributing! 🚀
-
