@@ -19,14 +19,5 @@ Please follow the submission rules:
 
 ---
 
-## Day 2 — Two Sum Variant & Modular Arithmetic
-
-| Name | Domain | Editorial Link |
-|------|---------|----------------|
-|      |         |                |
-|      |         |                |
-
----
-
 Happy contributing! 🚀
 
